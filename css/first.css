@@ -1,0 +1,12 @@
+
+body{
+    padding-left:450px;
+    padding-right: 500px; 
+    background-color: lightgray;
+    }
+div{
+    border: white solid 1px;
+        padding: 10px;
+        text-align: center;
+    }
+
