@@ -1,0 +1,77 @@
+.logo
+{
+    padding-left: 20px;
+    padding-top: 5px;
+    
+}
+
+a{
+    text-decoration: none;
+    font-family:'Roboto', sans-serif;
+    color: inherit;
+}
+
+li{
+    display: inline;
+    font-size: 1.2em;  
+    text-decoration: none;
+    padding:10px;
+}
+ul{
+    float: right;
+    padding-top: 20px;
+
+}
+
+#footer1 ul{
+float:left;
+padding-bottom: 10px;
+
+}
+
+#footer1 li{
+    font-size: 1.1em;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+#footer1 ul{
+    padding-left: 520px;
+    color: white;
+    background-color: black;
+    width: 100%;
+}
+
+#hero1{
+    background-color:palegreen;
+    padding-top: 1px;
+
+}
+
+#col1
+{
+    padding: 20px;
+    
+}
+
+#col2{
+    background-color: blueviolet;
+    padding-top: 5px; 
+}
+
+.head
+{
+    position: fixed;
+    overflow: hidden;
+    background-color: aliceblue;
+    width: 100%;
+}
+
+.grid_6_sub{
+    margin: 10px;
+}
+
+.product1{
+    padding: 18px;
+    
+}

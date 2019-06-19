@@ -1,0 +1,16 @@
+.logo
+{
+    float: left;
+}
+
+a{
+    text-decoration: none;
+
+}
+
+li{
+    display: inline;
+    font-size: 1.5em;   
+    float: right;
+
+}
